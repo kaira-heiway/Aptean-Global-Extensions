@@ -1,0 +1,32 @@
+{
+  "id": "81915655-f812-4f10-8976-267e1e80c59a",
+  "name": "Aptean Beverage Foundation Layer for Drink-IT Edition",
+  "publisher": "Aptean",
+  "version": "2602.0.332063.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 62000,
+      "to": 73168300
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

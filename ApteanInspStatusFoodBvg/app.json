@@ -1,0 +1,32 @@
+{
+  "id": "2c87fcd8-c5ae-406f-bc35-a6d2b7fd7892",
+  "name": "Aptean Inspection Status for Food and Beverage",
+  "publisher": "Aptean",
+  "version": "2603.0.332201.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 70218875,
+      "to": 70218950
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "5b6faa68-c4fb-40bd-8792-6700f616f420",
+  "name": "Aptean Beverage Customs Document Management for Drink-IT Edition",
+  "publisher": "Aptean",
+  "version": "2603.0.334430.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 71632420,
+      "to": 73168276
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

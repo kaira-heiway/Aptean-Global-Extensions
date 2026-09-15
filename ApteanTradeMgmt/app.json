@@ -1,0 +1,32 @@
+{
+  "id": "0b662be8-93c1-40a1-acb7-529700685704", 
+  "name": "Aptean Trade Management for Food and Beverage", 
+  "publisher": "Aptean", 
+  "version": "2603.0.332830.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 70238210,
+      "to": 72947708
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

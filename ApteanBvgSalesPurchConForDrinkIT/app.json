@@ -1,0 +1,32 @@
+{
+  "id": "3d47efad-7111-453d-8389-afe7f4f8075b",
+  "name": "Aptean Beverage Sales-Purchase Conditions for Drink-IT Edition",
+  "publisher": "Aptean",
+  "version": "2603.0.332354.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 71631880,
+      "to": 71631922
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

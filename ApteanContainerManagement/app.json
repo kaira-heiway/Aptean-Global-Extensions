@@ -1,0 +1,32 @@
+{
+  "id": "11e4d388-3932-41d7-b69a-b44fc92fafcb",
+  "name": "Container Management",
+  "publisher": "Aptean Professional Services",
+  "version": "1.0.295306.71",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 62000,
+      "to": 62020
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

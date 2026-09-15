@@ -1,0 +1,32 @@
+{
+  "id": "c740bad8-331b-4885-8822-09c3d54323ec",
+  "name": "Aptean Beverage Logistics for Drink-IT Edition",
+  "publisher": "Aptean",
+  "version": "2603.0.332427.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 71624785,
+      "to": 71632065
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

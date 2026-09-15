@@ -1,0 +1,32 @@
+{
+  "id": "4630fd6b-ef15-42f5-9be2-0edcf56fca22",
+  "name": "Aptean Beverage Tax Management for Drink-IT Edition",
+  "publisher": "Aptean",
+  "version": "2603.0.332490.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 71631725,
+      "to": 71631770
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

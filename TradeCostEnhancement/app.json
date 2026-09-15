@@ -1,0 +1,32 @@
+{
+  "id": "9e6c4199-7f36-4717-9505-aae4f2f35fc5",
+  "name": "Trade Cost Enhancement APS",
+  "publisher": "Aptean",
+  "version": "2601.0.0.205",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 62500,
+      "to": 62520
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
